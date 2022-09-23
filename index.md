@@ -22,4 +22,4 @@ This is [my web](https://github.com/coffee-drinker/about-me)
 
 [return to the title](#this-is-me)
 
-[going back to README.md](about-me/README.md)
+[going back to README.md](README.md)
