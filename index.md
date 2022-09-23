@@ -23,3 +23,23 @@ This is [my web](https://github.com/coffee-drinker/about-me)
 [return to the title](#this-is-me)
 
 [going back to README.md](README.md)
+
+
+The following are what I like about 
+- CSE 110
+- Professor Powell
+- All CSE 110 TAs and tutors
+
+The following are what I don't like about 
+1. too much hw
+2. too less food
+3. not enough sleep
+
+
+choose one of them 
+
+- [ ] first one
+- [x] second one
+- [ ] third one
+
+
