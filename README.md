@@ -2,7 +2,7 @@
 
 [published website](https://coffee-drinker.github.io/about-me/)
 
-...
+
 https://coffee-drinker.github.io/about-me/ 
 
 
